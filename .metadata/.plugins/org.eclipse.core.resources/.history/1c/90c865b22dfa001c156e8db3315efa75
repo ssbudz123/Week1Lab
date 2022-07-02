@@ -1,0 +1,16 @@
+
+public class Lab1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+int availablePlaneSeats = 5;
+double costOfGroceries = 110.57;
+char middleInitial = 'S';
+boolean isHotOutside = true;
+boolean isColdOutside = false;
+String firstName = "Shawn";
+String streetAddress = "Wayford Lane";
+System.out.println(availablePlaneSeats);
+	}
+
+}
